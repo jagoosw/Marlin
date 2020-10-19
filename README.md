@@ -1,5 +1,9 @@
 # Marlin 3D Printer Firmware
 
+## This Repository
+
+This repository is my setup for my Creality Ender 5 with SKR 1.4 Turbo, All Metal E3D V6, TMC2209 drivers and heated chamber.
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
